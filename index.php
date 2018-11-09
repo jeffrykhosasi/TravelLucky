@@ -17,7 +17,7 @@
       echo $row['id_posisiduduk'];
     }
   }
-
+//LALALA
 ?>
 
 <!DOCTYPE html>
